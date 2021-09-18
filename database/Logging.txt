@@ -1,0 +1,969 @@
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+syntax
+Command: Delete row from Table studentss
+Result
+Row Successfully Deleted from table studentss
+
+Invalid command or syntax 
+synta
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+syntax 
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+syntax er
+Command: List schema for students table
+Result
+Schema not found!!!
+
+Command: List schema for students table
+Result
+Schema not found!!!
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+syntax e
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+synta
+Invalid command or syntax 
+sy
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+synta
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+
+Invalid command or syntax 
+syntax error
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List schema for students table
+Result
+Schema not found!!!
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+synta
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+synta
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+synta
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+synta
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+synta
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+sy
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+sy
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+sy
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+synta
+Invalid command or syntax 
+sy
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Invalid command or syntax 
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+synta
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Invalid command or syntax 
+sy
+Invalid command or syntax 
+synta
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: to display data of Table studentss
+Result
+id first_name last_name
+45 'Emil' 'Johansson'
+48 'Emil' 'Johansson'
+Command: to display data of Table studentss
+Result
+id first_name last_name
+45 'Emil' 'Johansson'
+48 'Emil' 'Johansson'
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: to display data of Table studentss
+Result
+id first_name last_name
+45 'Emil' 'Johansson'
+48 'Emil' 'Johansson'
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: to display data of Table studentss
+Result
+id first_name last_name
+45 'Emil' 'Johansson'
+48 'Emil' 'Johansson'
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: List schema for studentss table
+Result
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: List all Tables
+Result
+studentss
+studentsss
+
+
+Command: Create Table test
+Result
+Table test.txt Successfully Created
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List schema for test table
+Result
+test
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+
+Command: Insert row in Table test
+Result
+Row Successfully Inserted in Table test
+
+Command: Insert row in Table test
+Result
+Row Successfully Inserted in Table test
+
+Command: to display data of Table test
+Result
+id first_name last_name
+1 'Fabia' 'Afzal'
+2 'Sam' 'John'
+Command: to display data of Table students
+Result
+Table students not found
+
+Command: to display data of Table students
+Result
+Table students not found
+
+Command: to display data of Table studentss
+Result
+first_name last_name 
+'Emil''Johansson'
+
+Command: Insert row in Table test
+Result
+Row Successfully Inserted in Table test
+
+Command: Delete row from Table test
+Result
+Row Successfully Deleted from table test
+
+Command: to display data of Table test
+Result
+id first_name last_name
+1 'Fabia' 'Afzal'
+2 'Sam' 'John'
+Command: Update row in Table test
+Result
+Row Successfully Updated in Table test
+
+Command: to display data of Table test
+Result
+id first_name last_name
+1 'FABIA' 'AFZAL'
+2 'Sam' 'John'
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: Create Table fit_hai
+Result
+Table fit_hai.txt Successfully Created
+
+Command: Drop Table fit_hai
+Result
+Successfully Deleted Table fit_hai
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: to display data of Table studentss
+Result
+id first_name last_name
+45 'Emil' 'Johansson'
+48 'Emil' 'Johansson'
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+
+Command: List all Tables
+Result
+studentss
+studentsss
+test
+
+

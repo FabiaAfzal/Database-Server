@@ -1,0 +1,18 @@
+studentss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+studentsss
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
+test
+{
+id INTEGER 
+first_name VARCHAR ( 7 )
+last_name VARCHAR ( 8 )
+}
